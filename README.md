@@ -6,3 +6,5 @@ This repository is here to regroup the implementation in python of all covered a
 - Particle Swarm Optimisation (pso.py)
 - Honeybees Mating Optimisation (hbmo.py)
 
+optimization is not guaranted
+
